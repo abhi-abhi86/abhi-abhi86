@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub Profile
-I am Abhishek M G, a dedicated Python developer currently pursuing a Bachelor of Computer Applications (B.C.A.). I am passionate about crafting efficient and innovative software solutions using Python. 🐍  </n
->
+I am Abhishek M G, a dedicated Python developer currently pursuing a Bachelor of Computer Applications (B.C.A.). I am passionate about crafting efficient and innovative software solutions using Python. 🐍
+
 ℹ️ About Me
 
 Name: Abhishek M G
