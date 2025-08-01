@@ -1,36 +1,65 @@
-# 👋 Hey there! I'm Abhishek
+👋 Welcome to My GitHub Profile!
 
-I'm a passionate Pythonista 🐍, web developer 🌐, and lifelong learner 
-<br>
-🚀 who loves turning ideas into real-world projects. Currently exploring the depths of backend development, automation, and clean code design. 
+Hello, I'm Abhishek M G, a passionate Python programmer and a B.C.A. student. I love building innovative projects and exploring the world of coding. 🚀
 
----
-
-## 💻 What I Do
-
-- 🛠 Building Python projects and APIs with Flask
-- 🌱 Learning DevOps & Cloud (Docker, GitHub Actions, AWS)
-- 🧠 Exploring Data Science and AI
-- ✍ Writing clean, readable, and reusable code
-
----
-
-## 📬 Let’s Connect!
-
-If you want to collaborate, discuss a project, or just say hi:
-
-📧 Email: [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
+📖 About Me
 
 
----
 
-## 🔧 Fun Gist Tip
 
-Want to see some of my quick code ideas and tricks?  
-Check out my other gists or follow me on GitHub!
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+Name: Abhishek M G
 
----
 
-Thanks for stopping by! 🙌
+
+Email: abhishekmgabhishekmg726@gmail.com
+
+
+
+Education: Pursuing Bachelor of Computer Applications (B.C.A.)
+
+
+
+Skills: Python 🐍 | Problem Solving | Software Development
+
+💻 What I Do
+
+I am enthusiastic about creating Python-based solutions, ranging from small scripts to larger applications. My goal is to contribute to open-source projects and develop efficient, user-friendly software. 🌟
+
+🌱 Currently Learning
+
+
+
+
+
+Advanced Python concepts
+
+
+
+Data structures and algorithms
+
+
+
+Web development frameworks
+
+📫 Connect With Me
+
+Feel free to reach out for collaborations or just to say hi! You can contact me via email at abhishekmgabhishekmg726@gmail.com.
+
+🎯 Goals
+
+
+
+
+
+Contribute to impactful open-source projects
+
+
+
+Build a strong portfolio of Python applications
+
+
+
+Inspire and learn from the developer community
+
+Thanks for visiting my profile! Let's code and create something amazing together! 💡
