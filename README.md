@@ -3,7 +3,7 @@ I am Abhishek M G, a dedicated Python developer currently pursuing a Bachelor of
 
 ℹ️ About Me
 
-Name: Abhishek M G
+Name: Abhishek M G\n
 Email: abhishekmgabhishekmg726@gmail.com
 LinkedIn: Abhishek M G
 Education: B.C.A. (in progress)
