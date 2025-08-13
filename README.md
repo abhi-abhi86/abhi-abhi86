@@ -3,10 +3,14 @@ I am Abhishek M G, a dedicated Python developer currently pursuing a Bachelor of
 
 ℹ️ About Me
 
-Name: Abhishek M G\n
+Name: Abhishek M G
+
 Email: abhishekmgabhishekmg726@gmail.com
+
 LinkedIn: Abhishek M G
+
 Education: B.C.A. (in progress)
+
 Skills: Python Programming 🐍 | Software Development | Problem Solving | Data Structures
 
 
