@@ -9,7 +9,8 @@ I possess a deep enthusiasm for architecting **efficient**, **innovative**, and 
 ## ℹ️ About Me
 - **Full Name:** Abhishek M G  
 - **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- **LinkedIn:** *Abhishek M G*  
+- **LinkedIn:** *Abhishek M G*
+- **GitHub:** [abhi-abhi86](https://github.com/abhi-abhi86)   
 - **Education:** Bachelor of Computer Applications *(in progress)*  
 - **Core Competencies:** Python Programming 🐍 | Software Architecture | Problem Solving | Data Structures & Algorithms
 
@@ -41,13 +42,15 @@ I take pride in producing **maintainable**, **well-documented**, and **performan
 ## 🗂️ Featured Projects
 - **Personal Portfolio Website** – Django-powered platform showcasing my professional work.  
 - **Data Analysis Pipeline** – Pandas-based script for extracting insights from datasets.  
-- *(More projects in development — stay tuned in my repositories!)* 📂  
+- *(More projects in development — stay tuned in my repositories!)* 📂
+- 🔗 Explore all projects here → [github.com/abhi-abhi86](https://github.com/abhi-abhi86) 
 
 ---
 
 ## 📫 Let’s Connect
 - 📧 **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- 💼 **LinkedIn:** *Abhishek M G*  
+- 💼 **LinkedIn:** *Abhishek M G*
+- - 🐙 **GitHub:** [abhi-abhi86](https://github.com/abhi-abhi86)    
 
 ---
 
