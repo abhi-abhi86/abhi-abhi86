@@ -1,64 +1,124 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi — I'm Abhishek M G
 
-I am **Abhishek M G**, an aspiring and dedicated **Python Developer** currently pursuing a **Bachelor of Computer Applications (B.C.A)**.  
-
-I possess a deep enthusiasm for architecting **efficient**, **innovative**, and **scalable** software solutions leveraging the power of Python 🐍. My approach emphasizes **clean code principles**, **problem-solving acumen**, and a relentless pursuit of technical excellence.
+I am an aspiring Python Developer currently pursuing a Bachelor of Computer Applications (B.C.A). I build clean, maintainable, and scalable Python applications — from automation scripts and data pipelines to GUI apps and ML experiments.
 
 ---
 
 ## ℹ️ About Me
-- **Full Name:** Abhishek M G  
+- **Full name:** Abhishek M G  
+- **Role:** Python Developer (aspiring)  
 - **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- **LinkedIn:** *Abhishek M G*
-- **GitHub:** [abhi-abhi86](https://github.com/abhi-abhi86)   
-- **Education:** Bachelor of Computer Applications *(in progress)*  
-- **Core Competencies:** Python Programming 🐍 | Software Architecture | Problem Solving | Data Structures & Algorithms
+- **GitHub:** [github.com/abhi-abhi86](https://github.com/abhi-abhi86)  
+- **LinkedIn:** Abhishek M G (add your profile URL)  
+- **Education:** Bachelor of Computer Applications (in progress)  
 
 ---
 
-## 💻 Professional Overview
-As a Python developer, I specialize in **conceptualizing, designing, and implementing** applications that range from **lightweight automation scripts** to **robust enterprise-grade solutions**.  
-
-I take pride in producing **maintainable**, **well-documented**, and **performance-optimized** code, ensuring long-term adaptability and scalability for evolving project requirements. 🚀
+## 💼 Summary
+I focus on designing and implementing efficient, maintainable software with Python. I enjoy problem solving, building data workflows, creating web apps, GUI tools, and experimenting with machine learning and NLP models. I emphasize readable code, documentation, and using version control for all projects.
 
 ---
 
-## 🛠️ Technical Arsenal
-- **Languages:** Python  
-- **Frameworks / Libraries:** Django, Flask, Pandas, NumPy  
-- **Tools & Platforms:** Git, VS Code, Jupyter Notebook  
-- **Databases:** SQLite, MySQL  
-- **Additional Expertise:** REST APIs, Unit Testing, Virtual Environments, API Integration
+## 🛠️ Technical Skills
+
+- Languages
+  - Python — Proficient
+
+- Core Data & Scientific Stack
+  - NumPy — Proficient
+  - Pandas — Proficient
+  - Matplotlib — Familiar
+
+- Machine Learning & Deep Learning
+  - scikit-learn — Familiar / Practical use
+  - PyTorch (torch) — Familiar (model training, inference)
+  - torchvision — Familiar (vision datasets / transforms)
+  - transformers — Familiar (Hugging Face models for NLP)
+
+- Natural Language Processing & Retrieval
+  - transformers — Working knowledge (tokenizers, model inference)
+  - rank-bm25 — Familiar (BM25 retrieval for keyword ranking)
+  - fuzzywuzzy & python-Levenshtein — Familiar (string matching, fuzzy matching)
+  - wikipedia (python library) — Familiar (fetching article content)
+
+- Computer Vision & Imaging
+  - Pillow — Proficient (image loading, processing)
+  - torchvision — Familiar (vision models & transforms)
+
+- GUI
+  - PyQt6 — Familiar (building desktop GUI applications)
+
+- Web, Scraping & HTTP
+  - requests — Proficient
+  - beautifulsoup4 — Familiar (HTML parsing & scraping)
+
+- Geospatial & Mapping
+  - geopy — Familiar (geocoding)
+  - folium — Familiar (interactive maps)
+
+- Utilities & Integrations
+  - openai — Familiar (OpenAI API usage)
+  - reportlab — Familiar (PDF generation)
+  - rank-bm25 — Familiar (document retrieval)
+  - Other helpful libs used: wikipedia, fuzzywuzzy, python-Levenshtein
+
+- Databases & Storage
+  - MySQL — Proficient
+  - SQLite — Proficient
+
+- Testing & Development Practices
+  - Unit testing — Familiar (unittest / pytest)
+  - Virtual environments — venv / virtualenv
+  - Git — Proficient (feature branches, pull requests)
+
+Notes:
+- I included the exact libraries you provided (PyQt6, Pillow, torch, torchvision, transformers, numpy, matplotlib, pandas, scikit-learn, requests, wikipedia, beautifulsoup4, geopy, folium, fuzzywuzzy, python-Levenshtein, reportlab, openai, rank-bm25).
+- Proficiency labels are conservative; change any label (Advanced / Proficient / Familiar / Learning) to match how you want to present your experience.
 
 ---
 
-## 🌱 Current Learning Trajectory
-- Advancing proficiency in **Python web frameworks** (Django, Flask)  
-- Strengthening mastery over **data structures** and **algorithmic problem-solving**  
-- Exploring **web development** and **data analytics** leveraging Python 📊  
+## 🔭 Featured Projects
+(Replace placeholders below with exact repo links for direct links.)
+
+1. Personal Portfolio (Django)  
+   - Overview: Django site to showcase projects, resume, and contact info.  
+
+2. Data Analysis & ML Experiments (Pandas / scikit-learn / PyTorch)  
+   - Overview: Data cleaning, model training, evaluation scripts and notebooks.
+
+3. GUI & Tools (PyQt6 / Pillow / reportlab)  
+   - Overview: Desktop utilities for image processing, report generation, and small productivity tools.
+
+Explore all repositories: https://github.com/abhi-abhi86
 
 ---
 
-## 🗂️ Featured Projects
-- **Personal Portfolio Website** – Django-powered platform showcasing my professional work.  
-- **Data Analysis Pipeline** – Pandas-based script for extracting insights from datasets.  
-- *(More projects in development — stay tuned in my repositories!)* 📂
-- 🔗 Explore all projects here → [github.com/abhi-abhi86](https://github.com/abhi-abhi86) 
+## ▶️ How I work / Setup guidelines
+- Use virtual environments for each project.  
+- Keep secrets out of repos (.env / environment variables).  
+- Document setup and usage in each project README.  
+- Prefer small, testable functions and unit tests for core logic.
+
+General local setup (example):
+1. git clone <repo-url>
+2. cd repo
+3. python -m venv venv
+4. source venv/bin/activate (Windows: venv\Scripts\activate)
+5. pip install -r requirements.txt
+6. follow project-specific README for migrations/run instructions
 
 ---
 
-## 📫 Let’s Connect
-- 📧 **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- 💼 **LinkedIn:** *Abhishek M G*
-- - 🐙 **GitHub:** [abhi-abhi86](https://github.com/abhi-abhi86)    
+## 📫 Contact
+- Email: [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
+- GitHub: [@abhi-abhi86](https://github.com/abhi-abhi86)  
+- LinkedIn: Abhishek M G (add your profile URL)
+
+Open to internships, collaborations, and open-source contributions.
 
 ---
 
-## 🎯 Long-Term Objectives
-- Contribute meaningfully to **open-source initiatives** 🌐  
-- Develop a **diverse portfolio** of impactful Python applications  
-- Engage actively in the **developer community** to exchange knowledge and foster innovation  
-
----
-
-💡 *Thank you for visiting my profile! Let's collaborate and create something extraordinary together.* 🚀
+## 🎯 Goals
+- Build a strong portfolio of Python web apps, GUI tools, and ML/NLP projects.  
+- Contribute to open-source projects and collaborate with other developers.  
+- Continue improving algorithmic and system design skills.
