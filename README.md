@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-I am **Abhishek M G**, an aspiring and dedicated **Python Developer** currently pursuing a **Bachelor of Computer Applications (B.C.A.)**.  
+I am **Abhishek M G**, an aspiring and dedicated **Python Developer** currently pursuing a **Bachelor of Computer Applications (B.C.A)**.  
 
 I possess a deep enthusiasm for architecting **efficient**, **innovative**, and **scalable** software solutions leveraging the power of Python 🐍. My approach emphasizes **clean code principles**, **problem-solving acumen**, and a relentless pursuit of technical excellence.
 
