@@ -9,7 +9,7 @@ I am an aspiring Python Developer currently pursuing a Bachelor of Computer Appl
 - **Role:** Python Developer (aspiring)  
 - **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
 - **GitHub:** [github.com/abhi-abhi86](https://github.com/abhi-abhi86)  
-- **LinkedIn:** Abhishek M G (add your profile URL)  
+- **LinkedIn:** Abhishek M G 
 - **Education:** Bachelor of Computer Applications (in progress)  
 
 ---
