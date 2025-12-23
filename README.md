@@ -4,7 +4,9 @@ I am an aspiring Python Developer currently pursuing a Bachelor of Computer Appl
 
 ---
 
-## ℹ️ About Me
+![Profile view counter on GitHub](https://github.com/abhi-abhi86)
+
+## ℹ️ About Me   
 - **Full name:** Abhishek M G  
 - **Role:** Python Developer (aspiring)  
 - **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
