@@ -4,7 +4,7 @@ I am an aspiring Python Developer currently pursuing a Bachelor of Computer Appl
 
 ---
 
-![Profile view counter on GitHub**100](https://komarev.com/ghpvc/?username=abhi-abhi86)
+![Profile view counter on GitHub/2](https://komarev.com/ghpvc/?username=abhi-abhi86)
 
 
 ## ℹ️ About Me   
