@@ -1,127 +1,128 @@
-# 👋 Hi — I'm Abhishek M G
+# 👋 Hi there! I'm Abhishek M G
 
-I am an aspiring Python Developer currently pursuing a Bachelor of Computer Applications (B.C.A). I build clean, maintainable, and scalable Python applications — from automation scripts and data pipelines to GUI apps and ML experiments.
-
----
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=abhi-abhi86 )
-
-
-## ℹ️ About Me   
-- **Full name:** Abhishek M G  
-- **Role:** Python Developer (aspiring)  
-- **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- **GitHub:** [github.com/abhi-abhi86](https://github.com/abhi-abhi86)  
-- **LinkedIn:** Abhishek M G 
-- **Education:** Bachelor of Computer Applications (in progress)  
+I'm an aspiring Python Developer currently pursuing a Bachelor of Computer Applications (B.C.A.). I focus on building clean, maintainable, and scalable Python applications, ranging from automation scripts and data pipelines to GUI applications and machine learning experiments.
 
 ---
 
-## 💼 Summary
-I focus on designing and implementing efficient, maintainable software with Python. I enjoy problem solving, building data workflows, creating web apps, GUI tools, and experimenting with machine learning and NLP models. I emphasize readable code, documentation, and using version control for all projects.
+## 🚀 About Me
+
+- **Full Name:** Abhishek M G
+- **Role:** Python Developer (Aspiring)
+- **Education:** Bachelor of Computer Applications (In Progress)
+- **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)
+- **GitHub:** [github.com/abhi-abhi86](https://github.com/abhi-abhi86)
+- **LinkedIn:** [Abhishek M G](https://www.linkedin.com/in/abhishek-m-g-706354370)
+
+---
+
+## 💡 Summary
+
+My passion lies in designing and implementing efficient, maintainable software solutions using Python. I enjoy tackling complex problems, building robust data workflows, developing intuitive web applications and GUI tools, and exploring the frontiers of machine learning and natural language processing. I am committed to writing readable code, thorough documentation, and leveraging version control best practices for all my projects.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- Languages
-  - Python — Proficient
+### Languages
 
-- Core Data & Scientific Stack
-  - NumPy — Proficient
-  - Pandas — Proficient
-  - Matplotlib — Familiar
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- Machine Learning & Deep Learning
-  - scikit-learn — Familiar / Practical use
-  - PyTorch (torch) — Familiar (model training, inference)
-  - torchvision — Familiar (vision datasets / transforms)
-  - transformers — Familiar (Hugging Face models for NLP)
+### Core Data & Scientific Stack
 
-- Natural Language Processing & Retrieval
-  - transformers — Working knowledge (tokenizers, model inference)
-  - rank-bm25 — Familiar (BM25 retrieval for keyword ranking)
-  - fuzzywuzzy & python-Levenshtein — Familiar (string matching, fuzzy matching)
-  - wikipedia (python library) — Familiar (fetching article content)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-- Computer Vision & Imaging
-  - Pillow — Proficient (image loading, processing)
-  - torchvision — Familiar (vision models & transforms)
+### Machine Learning & Deep Learning
 
-- GUI
-  - PyQt6 — Familiar (building desktop GUI applications)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF69B4?style=for-the-badge&logo=huggingface&logoColor=white)
 
-- Web, Scraping & HTTP
-  - requests — Proficient
-  - beautifulsoup4 — Familiar (HTML parsing & scraping)
+### Natural Language Processing & Retrieval
 
-- Geospatial & Mapping
-  - geopy — Familiar (geocoding)
-  - folium — Familiar (interactive maps)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-FF69B4?style=for-the-badge&logo=huggingface&logoColor=white)
+![rank-bm25](https://img.shields.io/badge/rank--bm25-blue?style=for-the-badge)
+![fuzzywuzzy](https://img.shields.io/badge/fuzzywuzzy-orange?style=for-the-badge)
 
-- Utilities & Integrations
-  - openai — Familiar (OpenAI API usage)
-  - reportlab — Familiar (PDF generation)
-  - rank-bm25 — Familiar (document retrieval)
-  - Other helpful libs used: wikipedia, fuzzywuzzy, python-Levenshtein
+### Computer Vision & Imaging
 
-- Databases & Storage
-  - MySQL — Proficient
-  - SQLite — Proficient
+![Pillow](https://img.shields.io/badge/Pillow-404040?style=for-the-badge&logo=pillow&logoColor=white)
 
-- Testing & Development Practices
-  - Unit testing — Familiar (unittest / pytest)
-  - Virtual environments — venv / virtualenv
-  - Git — Proficient (feature branches, pull requests)
+### GUI
 
-Notes:
-- I included the exact libraries you provided (PyQt6, Pillow, torch, torchvision, transformers, numpy, matplotlib, pandas, scikit-learn, requests, wikipedia, beautifulsoup4, geopy, folium, fuzzywuzzy, python-Levenshtein, reportlab, openai, rank-bm25).
-- Proficiency labels are conservative; change any label (Advanced / Proficient / Familiar / Learning) to match how you want to present your experience.
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### Web, Scraping & HTTP
+
+![Requests](https://img.shields.io/badge/Requests-007ACC?style=for-the-badge&logo=requests&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2C88CC?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+
+### Databases & Storage
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Testing & Development Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-green?style=for-the-badge)
+![Virtual Environments](https://img.shields.io/badge/Virtual%20Environments-blue?style=for-the-badge)
 
 ---
 
-## 🔭 Featured Projects
-(Replace placeholders below with exact repo links for direct links.)
+## 🚀 Featured Projects
 
-1. Personal Portfolio (Django)  
-   - Overview: Django site to showcase projects, resume, and contact info.  
+Here are some of my key projects. For more details and to explore all my work, please visit my [GitHub profile](https://github.com/abhi-abhi86).
 
-2. Data Analysis & ML Experiments (Pandas / scikit-learn / PyTorch)  
-   - Overview: Data cleaning, model training, evaluation scripts and notebooks.
+### 1. Personal Portfolio (Django)
 
-3. GUI & Tools (PyQt6 / Pillow / reportlab)  
-   - Overview: Desktop utilities for image processing, report generation, and small productivity tools.
+- **Overview:** A Django-based website showcasing my projects, resume, and contact information.
 
-Explore all repositories: https://github.com/abhi-abhi86
+### 2. Data Analysis & ML Experiments (Pandas / scikit-learn / PyTorch)
+
+- **Overview:** A collection of scripts and notebooks focused on data cleaning, model training, and evaluation using various machine learning libraries.
+
+### 3. GUI & Tools (PyQt6 / Pillow / reportlab)
+
+- **Overview:** Desktop utilities developed for image processing, report generation, and other productivity-enhancing tasks.
 
 ---
 
-## ▶️ How I work / Setup guidelines
-- Use virtual environments for each project.  
-- Keep secrets out of repos (.env / environment variables).  
-- Document setup and usage in each project README.  
-- Prefer small, testable functions and unit tests for core logic.
+## ⚙️ How I Work / Setup Guidelines
 
-General local setup (example):
+- Always use virtual environments for each project to manage dependencies effectively.
+- Keep sensitive information and API keys out of repositories by utilizing `.env` files or environment variables.
+- Ensure comprehensive documentation for setup and usage is included in each project's README.
+- Prioritize small, testable functions and implement unit tests for core logic to ensure reliability.
+
+**General Local Setup Example:**
+
+```bash
 1. git clone <repo-url>
-2. cd repo
+2. cd <repo-name>
 3. python -m venv venv
-4. source venv/bin/activate (Windows: venv\Scripts\activate)
+4. source venv/bin/activate  # Windows: .\venv\Scripts\activate
 5. pip install -r requirements.txt
-6. follow project-specific README for migrations/run instructions
+6. Follow project-specific README for migrations/run instructions
+```
 
 ---
 
-## 📫 Contact
-- Email: [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)  
-- GitHub: [@abhi-abhi86](https://github.com/abhi-abhi86)  
-- LinkedIn: [@Abhishek M G](linkedin.com/in/abhishek-m-g-706354370)
+## 📞 Contact
 
-Open to internships, collaborations, and open-source contributions.
+I am open to internships, collaborations, and contributing to open-source projects. Feel free to reach out!
+
+- **Email:** [abhishekmgabhishekmg726@gmail.com](mailto:abhishekmgabhishekmg726@gmail.com)
+- **GitHub:** [@abhi-abhi86](https://github.com/abhi-abhi86)
+- **LinkedIn:** [Abhishek M G](https://www.linkedin.com/in/abhishek-m-g-706354370)
 
 ---
 
 ## 🎯 Goals
-- Build a strong portfolio of Python web apps, GUI tools, and ML/NLP projects.  
-- Contribute to open-source projects and collaborate with other developers.  
-- Continue improving algorithmic and system design skills.
+
+- Build a strong portfolio of Python web applications, GUI tools, and ML/NLP projects.
+- Actively contribute to open-source projects and collaborate with other developers.
+- Continuously improve my algorithmic and system design skills.
+
+
