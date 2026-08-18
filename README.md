@@ -1,8 +1,8 @@
 # Abhishek M G
 
-### Aspiring Python Developer | B.C.A. Student
+### Aspiring Python Developer | B.C.A. Graduate | M.C.A. Student
 
-I am an aspiring Python Developer with a strong passion for building clean, maintainable, and scalable applications. My focus ranges from automation scripts and data pipelines to GUI applications and machine learning experiments. I am committed to writing readable code, creating thorough documentation, and leveraging version control best practices for all my projects.
+I am an aspiring Python Developer, a B.C.A. graduate, and currently pursuing my M.C.A. I have a strong passion for building clean, maintainable, and scalable applications. My focus ranges from automation scripts and data pipelines to GUI applications and machine learning experiments. I am committed to writing readable code, creating thorough documentation, and leveraging version control best practices for all my projects.
 
 ---
 
@@ -88,3 +88,14 @@ Desktop utilities developed for image processing, report generation, and other p
 *   Build a strong portfolio of Python web applications, GUI tools, and ML/NLP projects.
 *   Actively contribute to open-source projects and collaborate with other developers.
 *   Continuously improve my algorithmic and system design skills.
+*   Apply my B.C.A. foundation and M.C.A. studies to develop practical, innovative software solutions.
+
+---
+
+### **Education**
+
+*   **Bachelor of Computer Applications (B.C.A.)** — Graduate
+*   **Master of Computer Applications (M.C.A.)** — Currently pursuing
+
+---
+
